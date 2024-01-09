@@ -1,8 +1,11 @@
 # David-Chu-s-China-Bistro
 A multi-page responsive website of a fictitious restaurant.
+To visit full website: [Click Here]()
+To visit full Assignments of this course: [Click Here](https://github.com/Sachin10-05/HTML-CSS-and-JS-For-Web-Developers)
+
 
 ## Description
-This was the final project I did as a part of a Coursera course - 'HTML,CSS and JavaScript For Web Developers' (https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome). This is a basic multi-page responsive website of a fictitious restaurant, which can be used as a template for building restaurant portfolio websites.
+This was the final project I did as a part of a Coursera course - [`HTML,CSS and JavaScript For Web Developers`](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome). This is a basic multi-page responsive website of a fictitious restaurant, which can be used as a template for building restaurant portfolio websites.
 
 It showcases the basic features of a restaurant such as main seating area, google location, menu categories, working hours and reviews. Besides, there's also a Specials category which is randomly updated every time the Specials category page loads - so that you can get a flavour of all ;-) (All thanks to JavaScript!).
 
@@ -14,13 +17,13 @@ This project is my first experience as part of Web Development.
 ## Tech Stack used:
 - HTML5
 - CSS3
-- Bootstrap (CSS Framework)
+- Bootstrap `CSS Framework`
 - JS
-- jQuery (JS Library)
+- jQuery `JS Library`
 
 
 ## Limitations
-* The 'About' and 'Awards' options have not been implemented yet.
+* The `About` and `Awards` options have not been implemented yet.
 * The home page currently has one static image of a restaurant, which I intend to turn into an image slideshow as the Gallery of the restaurant later.
 * The overall functionality of this website is basic and can be made more efficient to create a real world product.
 
