@@ -1,7 +1,7 @@
 # David-Chu-s-China-Bistro
-A multi-page responsive website of a fictitious restaurant.
-To visit full website: [Click Here]()
-To visit full Assignments of this course: [Click Here](https://github.com/Sachin10-05/HTML-CSS-and-JS-For-Web-Developers)
+A multi-page responsive website of a fictitious restaurant. <br />
+### To visit full website: [Click Here](http://htmlpreview.github.io/?https://github.com/Sachin10-05/David-Chu-s-China-Bistro/blob/main/index.html)  <br />
+### To visit full Assignments of this course: [Click Here](https://github.com/Sachin10-05/HTML-CSS-and-JS-For-Web-Developers)
 
 
 ## Description
