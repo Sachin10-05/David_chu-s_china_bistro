@@ -1,8 +1,10 @@
 # David-Chu-s-China-Bistro
-A multi-page responsive website of a fictitious restaurant. <br />
-### To visit full website: [Click Here](http://htmlpreview.github.io/?https://github.com/Sachin10-05/David-Chu-s-China-Bistro/blob/main/index.html)  <br />
-### To visit full Assignments of this course: [Click Here](https://github.com/Sachin10-05/HTML-CSS-and-JS-For-Web-Developers)
+It is a multi-page responsive website of a fictitious restaurant. <br />
+It's a part of final project covered for coursera course - [`HTML,CSS and JavaScript For Web Developers`](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome).
 
+### To visit full website: [Click Here](http://htmlpreview.github.io/?https://github.com/Sachin10-05/David-Chu-s-China-Bistro/blob/main/index.html) 
+### To visit full Assignments of this course: [Click Here](https://github.com/Sachin10-05/HTML-CSS-and-JS-For-Web-Developers)
+<br />
 
 ## Description
 This was the final project I did as a part of a Coursera course - [`HTML,CSS and JavaScript For Web Developers`](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome). This is a basic multi-page responsive website of a fictitious restaurant, which can be used as a template for building restaurant portfolio websites.
@@ -12,6 +14,7 @@ It showcases the basic features of a restaurant such as main seating area, googl
 This website also implements responsiveness for comfortable user experience in all kind of screen size devices.
 
 This project is my first experience as part of Web Development.
+<br /> <br />
 
 
 ## Tech Stack used:
@@ -20,12 +23,14 @@ This project is my first experience as part of Web Development.
 - Bootstrap `CSS Framework`
 - JS
 - jQuery `JS Library`
+<br />
 
 
 ## Limitations
 * The `About` and `Awards` options have not been implemented yet.
 * The home page currently has one static image of a restaurant, which I intend to turn into an image slideshow as the Gallery of the restaurant later.
 * The overall functionality of this website is basic and can be made more efficient to create a real world product.
+<br />
 
 
 ## Key Learnings
@@ -34,6 +39,7 @@ This project is my first experience as part of Web Development.
 * Got working experience with tools such as Visual Studio Code
 * Got a glimpse into the World Of Web
 * Made code readable and documentation
+<br />
 
 
 ## Acknowledgements
