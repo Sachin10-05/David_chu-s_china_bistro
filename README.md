@@ -1,4 +1,4 @@
-# David-Chu-s-China-Bistro
+# David-Chu's-China-Bistro
 It is a multi-page responsive website of a fictitious restaurant. <br />
 It's a part of final project covered for coursera course - [`HTML,CSS and JavaScript For Web Developers`](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome).
 
